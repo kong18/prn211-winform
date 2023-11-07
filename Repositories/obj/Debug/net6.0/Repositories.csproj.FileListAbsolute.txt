@@ -1,0 +1,15 @@
+D:\Ky5\PRN211\PE_test\PE_PRN211_FA23_CONGNTT\Repositories\bin\Debug\net6.0\Repositories\BookManagement2023DbContext.cs
+D:\Ky5\PRN211\PE_test\PE_PRN211_FA23_CONGNTT\Repositories\bin\Debug\net6.0\Repositories.deps.json
+D:\Ky5\PRN211\PE_test\PE_PRN211_FA23_CONGNTT\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+D:\Ky5\PRN211\PE_test\PE_PRN211_FA23_CONGNTT\Repositories\bin\Debug\net6.0\Repositories.dll
+D:\Ky5\PRN211\PE_test\PE_PRN211_FA23_CONGNTT\Repositories\bin\Debug\net6.0\Repositories.pdb
+D:\Ky5\PRN211\PE_test\PE_PRN211_FA23_CONGNTT\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+D:\Ky5\PRN211\PE_test\PE_PRN211_FA23_CONGNTT\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ky5\PRN211\PE_test\PE_PRN211_FA23_CONGNTT\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+D:\Ky5\PRN211\PE_test\PE_PRN211_FA23_CONGNTT\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+D:\Ky5\PRN211\PE_test\PE_PRN211_FA23_CONGNTT\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+D:\Ky5\PRN211\PE_test\PE_PRN211_FA23_CONGNTT\Repositories\obj\Debug\net6.0\Repositories.dll
+D:\Ky5\PRN211\PE_test\PE_PRN211_FA23_CONGNTT\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+D:\Ky5\PRN211\PE_test\PE_PRN211_FA23_CONGNTT\Repositories\obj\Debug\net6.0\Repositories.pdb
+D:\Ky5\PRN211\PE_test\PE_PRN211_FA23_CONGNTT\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+D:\Ky5\PRN211\PE_test\PE_PRN211_FA23_CONGNTT\Repositories\obj\Debug\net6.0\ref\Repositories.dll
